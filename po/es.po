@@ -1,0 +1,141 @@
+# translation of notification-daemon.po.master.po to Español
+# Spanish translation for notification-daemon.
+# Copyright (C) 2010 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# Jorge González <jorgegonz@svn.gnome.org>, 2010, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon.po.master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-02-16 16:53+0000\n"
+"PO-Revision-Date: 2011-02-19 12:39+0100\n"
+"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
+"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Se excedió el número máximo de notificaciones"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Identificador de notificación no válido"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "Limpiar todas las notificaciones"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Notificación"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+#| msgid "Clear all notifications"
+msgid "Display notifications"
+msgstr "Mostrar notificaciones"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+#| msgid "Notification Test"
+msgid "Notification Daemon"
+msgstr "Demonio de notificación"
+
+#~ msgid "Current theme"
+#~ msgstr "Tema actual"
+
+#~ msgid "Default Sound"
+#~ msgstr "Sonido predeterminado"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Ubicación predeterminada de la ventana emergente en el área de trabajo "
+#~ "para la pila de notificaciones. Los valores permitidos son: «top_left», "
+#~ "«top_right», «bottom_left» y «bottom_right»"
+
+#~ msgid "Popup location"
+#~ msgstr "Ubicación de la ventana emergente"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "Sonido activado"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "El archivo de sonido predeterminado que usar a no ser que la notificación "
+#~ "proporcione las opciones «sound-file» o «suppress-sound». Déjelo vacío "
+#~ "para no tener sonido predeterminado."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "El tema usado al mostrar las notificaciones."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "Activar y desactivar el soporte de sonido para las notificaciones."
+
+#~ msgid "Slider"
+#~ msgstr "Deslizador"
+
+#~ msgid "Standard theme"
+#~ msgstr "Tema estándar"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "Error al iniciar libnotify"
+
+#~ msgid "Just a test"
+#~ msgstr "Simplemente una prueba"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "Error al mostrar la notificación: %s"
+
+#~ msgid "Could not load user interface file: %s"
+#~ msgstr "No se pudo cargar el archivo de interfaz de usuario: %s"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Notificaciones emergentes"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Configurar las preferencias de sus notificaciones emergentes"
+
+#~ msgid "Top Left"
+#~ msgstr "Arriba a la izquierda"
+
+#~ msgid "Top Right"
+#~ msgstr "Arriba a la derecha"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Abajo a la izquierda"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Abajo a la derecha"
+
+#~ msgid "Unable to locate glade file '%s'"
+#~ msgstr "No se pudo localizar el archivo glade «%s»"
+
+#~ msgid "      "
+#~ msgstr "      "
+
+#~ msgid "<b>General Options</b>"
+#~ msgstr "<b>Opciones generales</b>"
+
+#~ msgid "Notification Settings"
+#~ msgstr "Ajustes de las notificaciones"
+
+#~ msgid "P_osition:"
+#~ msgstr "_Posición:"
+
+#~ msgid "_Preview"
+#~ msgstr "Vista _previa"
+
+#~ msgid "_Theme:"
+#~ msgstr "_Tema:"

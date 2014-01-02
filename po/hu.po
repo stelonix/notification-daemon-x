@@ -1,0 +1,48 @@
+# Hungarian translation for notification-daemon
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the notification-daemon package.
+#
+# Gabor Kelemen <kelemeng at gnome dot hu>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-15 15:22+0100\n"
+"PO-Revision-Date: 2011-03-15 15:20+0100\n"
+"Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
+"Language-Team: Hungarian <gnome at fsf dot hu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-01-22 00:04+0000\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Az értesítések maximális száma túllépve"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Érvénytelen értesítésazonosító"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "Minden értesítés törlése"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "Értesítések"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Értesítés"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "Értesítések megjelenítése"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "Értesítésdémon"

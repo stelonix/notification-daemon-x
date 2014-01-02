@@ -1,0 +1,77 @@
+# Chinese (Hong Kong) translation for notification-daemon.
+# Copyright (C) 2011 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-30 21:36+0800\n"
+"PO-Revision-Date: 2011-03-30 21:36+0800\n"
+"Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
+"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "超越通知次數上限"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "無效的通知識別符"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "清除所有通知"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "通知"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "通知"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "顯示通知"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "通知伺服程式"
+
+#~ msgid "Current theme"
+#~ msgstr "目前的布景主題"
+
+#~ msgid "Default Sound"
+#~ msgstr "預設聲音"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "堆疊通知在工作區的預設彈出位置。可用的數值有：「top_left」、"
+#~ "「top_right」、「bottom_left」和「bottom_right」"
+
+#~ msgid "Popup location"
+#~ msgstr "彈出位置"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "聲音已啟用"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "要使用的預設聲音檔案，除非通知提供「sound-file」或「supress-sound」提示。"
+#~ "保持空白代表沒有預設聲音。"
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "當顯示通知時使用的布景。"
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "開啟與關閉通知的聲音支援。"

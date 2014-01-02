@@ -1,0 +1,131 @@
+# notification-daemon ja.po.
+# Copyright (C) 2006,2007,2009,2011 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2006,2007,2009.
+# Jiro Matsuzawa <matsuzawa.jr@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-04-23 16:41+0000\n"
+"PO-Revision-Date: 2011-04-25 01:29+0900\n"
+"Last-Translator: Jiro Matsuzawa <matsuzawa.jr@gmail.com>\n"
+"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "通知数の最大値を超過"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "不正な通知 ID"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "すべての通知をクリアする"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "通知"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "通知"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "通知を表示する"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "通知デーモン"
+
+#~ msgid "Current theme"
+#~ msgstr "現在使用しているテーマ"
+
+#~ msgid "Default Sound"
+#~ msgstr "デフォルトのサウンド"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "通知情報を積み重ねてポップアップ表示するデフォルトの場所です。指定可能な"
+#~ "値: \"top_left\"、\"top_right\"、\"bottom_left\"、\"bottom_right\""
+
+#~ msgid "Popup location"
+#~ msgstr "ポップアップ表示する場所"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "サウンドを有効にするかどうか"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "'sound-file' または 'suppress-sound' で通知する場合を除いて、デフォルトで"
+#~ "使用するサウンド・ファイルです。デフォルトのサウンドを指定しない場合は何も"
+#~ "入力せずに空のままにしておいてください。"
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "通知ダイアログを表示する際に使用するテーマです。"
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "通知時にサウンドを鳴らすかどうかを指定します。"
+
+#~ msgid "Top Left"
+#~ msgstr "左上隅"
+
+#~ msgid "Top Right"
+#~ msgstr "右上隅"
+
+#~ msgid "Bottom Left"
+#~ msgstr "左下隅"
+
+#~ msgid "Bottom Right"
+#~ msgstr "右下隅"
+
+#~ msgid "Ubuntu theme"
+#~ msgstr "Ubuntu のテーマ"
+
+#~ msgid "Standard theme"
+#~ msgstr "標準のテーマ"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "libnotify の初期化に失敗しました"
+
+#~ msgid "Just a test"
+#~ msgstr "テスト中です"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "ポップアップ通知に失敗しました: %s"
+
+#~ msgid "Unable to locate glade file '%s'"
+#~ msgstr ".glade ファイルを特定できません: %s"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "ポップアップして通知する方法を設定します"
+
+#~ msgid "      "
+#~ msgstr "      "
+
+#~ msgid "<b>General Options</b>"
+#~ msgstr "<b>全般のオプション</b>"
+
+#~ msgid "Notification Settings"
+#~ msgstr "ポップアップ通知の設定"
+
+#~ msgid "P_osition:"
+#~ msgstr "位置(_O):"
+
+#~ msgid "_Preview"
+#~ msgstr "プレビューする(_P)"
+
+#~ msgid "_Theme:"
+#~ msgstr "テーマ(_T):"

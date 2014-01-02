@@ -1,0 +1,46 @@
+# Chinese (China) translation for notification-daemon.
+# Copyright (C) 2010, 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the notification-daemon package.
+# YunQiang Su <wzssyqa@gmail.com>, 2010.
+# Lele Long <schemacs@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-02-21 15:17+0000\n"
+"PO-Revision-Date: 2011-02-24 01:26+0800\n"
+"Last-Translator: Lele Long <schemacs@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "超过了通知的最大数量"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "无效的通知标示符"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "清除所有通知"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "通知"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "通知"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "显示通知"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "通知守护进程"

@@ -1,0 +1,134 @@
+# Hebrew translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification daemon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-21 17:16+0200\n"
+"PO-Revision-Date: 2011-02-21 17:16+0200\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "מספר ההתרעות המרבי נחרג"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "מזהה ההתרעה אינו תקני"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "ניקוי כל ההתרעות"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "התרעות"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "התרעה"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "הצגת התרעות"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "סוכן ההתרעות"
+
+#~ msgid "Current theme"
+#~ msgstr "Current theme"
+
+#~ msgid "Default Sound"
+#~ msgstr "Default Sound"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+
+#~ msgid "Popup location"
+#~ msgstr "Popup location"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "Sound Enabled"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "The theme used when displaying notifications."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "Turns on and off sound support for notifications."
+
+#~ msgid "Slider"
+#~ msgstr "פס גלילה"
+
+#~ msgid "Standard theme"
+#~ msgstr "ערכת הנושא כבררת המחדל"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "שגיאה בהפעלת libnotify"
+
+#~ msgid "Just a test"
+#~ msgstr "סתם בדיקה"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "אירעה שגיאה בעת הצגת התרעה: %s"
+
+#~ msgid "Could not load user interface file: %s"
+#~ msgstr "לא ניתן לטעון את מנשק המשתמש:%s"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "התרעות קופצות"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "הגדרת העדפות ההתרעות הקופצות שלך"
+
+#~ msgid "      "
+#~ msgstr "      "
+
+#~ msgid "<b>General Options</b>"
+#~ msgstr "<b>אפשרויות כלליות</b>"
+
+#~ msgid "Bottom Left"
+#~ msgstr "למטה משמאל"
+
+#~ msgid "Bottom Right"
+#~ msgstr "למטה מימין"
+
+#~ msgid "Notification Settings"
+#~ msgstr "הגדרות התרעה"
+
+#~ msgid "P_osition:"
+#~ msgstr "מי_קום:"
+
+#~ msgid "Top Left"
+#~ msgstr "משמאל למעלה"
+
+#~ msgid "Top Right"
+#~ msgstr "מימין למעלה"
+
+#~ msgid "_Preview"
+#~ msgstr "_תצוגה מקדימה"
+
+#~ msgid "_Theme:"
+#~ msgstr "ע_רכת נושא:"

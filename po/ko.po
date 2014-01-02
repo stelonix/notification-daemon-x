@@ -1,0 +1,46 @@
+# Korean translation for notification-daemon.
+# Copyright (C) 2011 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+#
+# Changwoo Ryu <cwryu@debian.org>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-02-24 09:28+0000\n"
+"PO-Revision-Date: 2011-02-27 02:41+0900\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
+"Language-Team: GNOME Korea <gnome-kr@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "알림의 최대 개수를 넘었습니다"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "알림 ID가 잘못되었습니다"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "모든 알림 지우기"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "알림"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "알림"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "알림 표시"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "알림 데몬"

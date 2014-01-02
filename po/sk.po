@@ -1,0 +1,110 @@
+# Slovak translation for notification-daemon.
+# Copyright (C) 2010, 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the notification-daemon package.
+# Laco Gubík <lacogubik@googlemail.com>, 2010.
+# Laco Gubík <lacogubik@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-01-24 19:35+0000\n"
+"PO-Revision-Date: 2011-01-31 14:32+0100\n"
+"Last-Translator: Laco Gubík <lacogubik@gmail.com>\n"
+"Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+
+#: ../src/daemon.c:231
+msgid "Exceeded maximum number of notifications"
+msgstr "Bol prekročený maximálny počet oznámení"
+
+#: ../src/daemon.c:294
+#| msgid "%u is not a valid notification ID"
+msgid "Invalid notification identifier"
+msgstr "Neplatný identifikátor oznámenia"
+
+#: ../src/nd-queue.c:471
+#, fuzzy
+#| msgid "Notification"
+msgid "Clear all notifications"
+msgstr "Oznámenie"
+
+#: ../src/nd-queue.c:874
+#| msgid "Notification"
+msgid "Notifications"
+msgstr "Oznámenia"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Oznámenie"
+
+# MT: Prečo nie "aktuálna"?
+# LG: Prečo nie "súčasná"?
+# Osobne mi to viac sedí ako aktuálna. aktuálna môže byť chápana aj ako v poslednej verzii. Je niečo zlé s terajším prekladom?
+#~ msgid "Current theme"
+#~ msgstr "Súčasná téma"
+
+#~ msgid "Default Sound"
+#~ msgstr "Predvolený zvuk"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Predvolené umiestnenie na pracovnej ploche pre nahromadené vyskakovacie "
+#~ "oznámenia. Povolené hodnoty: \"top_left\",\"top_right\",\"bottom_left\" a "
+#~ "\"bottom_right\""
+
+#~ msgid "Popup location"
+#~ msgstr "Umiestnenie vyskakovacieho oznámenia"
+
+# MT: Tento slovosled sa mi nezdá slovenský; v kažom prípade mi príjde trochu násilný.
+# Nešlo by tam dať napr. "Zvuk je povolený" alebo "Povolený zvuk"?
+# LG: Je to tá istá forma ako keď povie vojak: "Príkaz vykonaný"
+#~ msgid "Sound Enabled"
+#~ msgstr "Zvuk povolený"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "Pokiaľ oznámenie neposkytne 'sound-file' alebo parameter 'suppress-"
+#~ "sound', bude použitý predvolený zvukový súbor. Nechajte prázdne ak "
+#~ "nechcete predvolený zvuk."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "Téma používaná pri zobrazovaní oznámení."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "Zapína a vypína podporu zvuku pre oznámenia."
+
+#~ msgid "Slider"
+#~ msgstr "Posuvník"
+
+#~ msgid "Standard theme"
+#~ msgstr "Štandardná téma"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "Chyba pri inicializácii libnotify"
+
+#~ msgid "Notification Test"
+#~ msgstr "Test oznámení"
+
+#~ msgid "Just a test"
+#~ msgstr "Iba test"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "Chyba pri zobrazení oznámenia: %s"
+
+#~ msgid "Could not load user interface file: %s"
+#~ msgstr "Nebolo možné zaviesť súbor používateľského rozhrania: %s"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Vyskakovacie oznámenia"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Nastavte si vaše predvoľby pre vyskakovacie oznámenia"

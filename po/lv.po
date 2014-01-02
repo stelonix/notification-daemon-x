@@ -1,0 +1,49 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Rudolfs <rudolfs.mazurs@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product"
+"=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-03-06 12:23+0000\n"
+"PO-Revision-Date: 2011-03-10 23:38+0200\n"
+"Last-Translator: Rudolfs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Lokalize 1.1\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Pārsniegts maksimālais paziņojumu skaits"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Nederīgs paziņojuma identifikators"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "Attīrīt visus paziņojumus"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Paziņojums"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+#| msgid "Clear all notifications"
+msgid "Display notifications"
+msgstr "Rādīt paziņojumus"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+#| msgid "Notification"
+msgid "Notification Daemon"
+msgstr "Paziņojumu dēmons"

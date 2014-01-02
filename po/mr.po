@@ -1,0 +1,49 @@
+# Marathi translation for notification-daemon.
+# Copyright (C) 2012 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+#
+# Sandeep Shedmake <sshedmak@redhat.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-07-07 17:05+0000\n"
+"PO-Revision-Date: 2012-08-14 14:28+0530\n"
+"Last-Translator: Sandeep Shedmake <sshedmak@redhat.com>\n"
+"Language-Team: Marathi <mr@li.org>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "सूचनांची कमाल संख्या वाढवले"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "अवैध सूचना ओळखकर्ता"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "सर्व सूचना नष्ट करा"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "सूचना"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "सूचना"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Notification Daemon"
+msgstr "सूचना डिमन"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Display notifications"
+msgstr "डिस्पले सूचना"
+

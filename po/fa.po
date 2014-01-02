@@ -1,0 +1,137 @@
+# Persian translation for notification-daemon.
+# Copyright (C) 2010,2011 Iranian Free Software Users Group (IFSUG.org)translation team.
+# This file is distributed under the same license as the notification-daemon package.
+# Arash Mousavi <mousavi.arash@gmail.com>, 2010, 2011.
+# Mahyar Moghimi <mahyar.moqimi@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-02-16 16:53+0000\n"
+"PO-Revision-Date: 2011-04-23 21:08+0330\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
+"Language-Team: Persian <translate@ifsug.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "از مرز بیشینه‌ی تعداد هشدار رد شده"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "شناسه نامعتبر برای هشدار"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "پاک کردن همه‌ی هشدارها"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "هشدارها"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "هشدار"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+#| msgid "Clear all notifications"
+msgid "Display notifications"
+msgstr "نمایش هشدارها"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+#| msgid "Notification Test"
+msgid "Notification Daemon"
+msgstr "شبح هشدارها"
+
+#~ msgid "Current theme"
+#~ msgstr "تم فعلی"
+
+#~ msgid "Default Sound"
+#~ msgstr "صدای پیش‌فرض"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "محل پیش‌فرض اخطارهای واشو بر روی میزکار. مقدارهای قابل استفاده: «top_left»، "
+#~ "«top_right»، «bottom_left» و «bottom_right»"
+
+#~ msgid "Popup location"
+#~ msgstr "مکان نمایش اخطار واشو"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "صدا فعال شد"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "پرونده‌ی صوتی پیش‌فرض تا زمانی که یک اخطار «پرونده-صوتی» و یا «صوت-غیرمجاز» "
+#~ "را اعلام کند. برای نداشتن صوت پیش‌فرض خالی بگذارید."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "تمی که هنگام نمایش اخطارها استفاده می‌شود."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "روشن و یا خاموش کردن پشتیبانی از صدا در اخطارها."
+
+#~ msgid "Slider"
+#~ msgstr "لغزنده"
+
+#~ msgid "Standard theme"
+#~ msgstr "تم استاندارد"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "خطا مقدار دهی libnotify"
+
+#~ msgid "Just a test"
+#~ msgstr "فقط یک آزمایش"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "خطا در هنگام نمایش اخطار: %s"
+
+#~ msgid "Could not load user interface file: %s"
+#~ msgstr "عدم امکان بارگیری پرونده واسط کاربری: %s"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "اخطارهای واشو"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "ترجیحات اخطارهای واشو خود را تنظیم کنید"
+
+#~ msgid "      "
+#~ msgstr "      "
+
+#~ msgid "<b>General Options</b>"
+#~ msgstr "<b>گزینه‌های عمومی</b>"
+
+#~ msgid "Bottom Left"
+#~ msgstr "پایین چپ"
+
+#~ msgid "Bottom Right"
+#~ msgstr "پایین راست"
+
+#~ msgid "Notification Settings"
+#~ msgstr "تنظیمات اخطار"
+
+#~ msgid "P_osition:"
+#~ msgstr "_مکان:"
+
+#~ msgid "Top Left"
+#~ msgstr "بالا چپ"
+
+#~ msgid "Top Right"
+#~ msgstr "بالا راست"
+
+#~ msgid "_Preview"
+#~ msgstr "_پیش‌نمایش"
+
+#~ msgid "_Theme:"
+#~ msgstr "_تم"

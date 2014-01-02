@@ -1,0 +1,46 @@
+# Dutch translation for notification-daemon
+#
+# This file is distributed under the same license as the notification-daemon package.
+#
+# Wouter Bolsterlee <wbolster@gnome.org>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-17 00:16+0100\n"
+"PO-Revision-Date: 2011-02-17 00:16+0100\n"
+"Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Maximum aantal notificaties overschreden"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Ongeldig notificatie-id"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "Alle notificaties wissen"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "Notificaties"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Notificatie"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "Notificaties tonen"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "Notificatie-service"

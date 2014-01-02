@@ -1,0 +1,86 @@
+# Romanian translation for notification-daemon.
+# Copyright (C) 2010 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# costin22 <muraru.costin@gmail.com>, 2010.
+# Costin M <muraru.costin(at)gmail.com>, 2010.
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product"
+"=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-02-28 17:03+0000\n"
+"PO-Revision-Date: 2011-03-12 02:51+0200\n"
+"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
+"Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.6.1\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Numărul maxim de notificări a fost depășit"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Identificator de notificare nevalid"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "Șterge toate notificările"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "Notificări"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Notificare"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+#| msgid "Clear all notifications"
+msgid "Display notifications"
+msgstr "Afișează notificări"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+#| msgid "Notification"
+msgid "Notification Daemon"
+msgstr "Serviciu de notificare"
+
+#~ msgid "Current theme"
+#~ msgstr "Temă curentă"
+
+#~ msgid "Default Sound"
+#~ msgstr "Sunet implicit"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Amplasarea implicită a popului pe spațiul de lucru pentru înșirarea "
+#~ "notificărilor. Valori permise: „top_left”, „top_right”, „bottom_left” și "
+#~ "„bottom_right”"
+
+#~ msgid "Popup location"
+#~ msgstr "Amplasare popup"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "Sunet activat"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "Fișierul de sunet implicit este folosit cu excepția cazului în care o "
+#~ "notificare furnizează indiciul „ sound-file” sau „suppress-sound”. Lăsați "
+#~ "gol pentru a nu folosi un sunet implicit."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "Tema folosită atunci când se afișează notificările."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "Pornește sau oprește suportul de sunet pentru notificări."

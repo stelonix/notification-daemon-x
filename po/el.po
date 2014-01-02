@@ -1,0 +1,109 @@
+# Greek translation for notification-daemon.
+# Copyright (C) 2010 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# Kostas Papadimas <pkst@gmx.net>, 2010.
+# Michael Kotsarinis <mk73628@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 11:26+0200\n"
+"PO-Revision-Date: 2011-01-24 11:39+0300\n"
+"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
+"Language-Team: team@gnome.gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: Greece\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "Έγινε υπέρβαση του μέγιστου αριθμού ειδοποιήσεων"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "Μη έγκυρος ταυτοποιητής ειδοποίησης"
+
+#: ../src/nd-queue.c:471
+msgid "Clear all notifications"
+msgstr "Εκκαθάριση όλων των ειδοποιήσεων"
+
+#: ../src/nd-queue.c:874
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Ειδοποίηση"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "Προβολή ειδοποιήσεων"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "Υπηρεσία ειδοποίησης"
+
+#~ msgid "Current theme"
+#~ msgstr "Τρέχον θέμα"
+
+#~ msgid "Default Sound"
+#~ msgstr "Προεπιλεγμένος ήχος"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Προεπιλεγμένη τοποθεσία αναδυόμενης ειδοποίησης στο χώρο εργασίας. Οι "
+#~ "επιτρεπόμενες τιμές είναι \"top_left\",\"top_right\",\"bottom_left\" και "
+#~ "\"bottom_right\""
+
+#~ msgid "Popup location"
+#~ msgstr "Τοποθεσία αναδυομένου"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "Ήχος ενεργοποιημένος"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "Το προεπιλεγμένο αρχείο ήχου που θα χρησιμοποιείται εκτός και αν η "
+#~ "ειδοποίηση παρέχει την δική της ρύθμιση 'αρχείου ήχου' ή 'σίγασης ήχου'. "
+#~ "Αφήστε το κενό για κανένα προεπιλεγμένο ήχο."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "Το θέμα που χρησιμοποιείται κατά την εμφάνιση ειδοποιήσεων."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr ""
+#~ "Ενεργοποιεί ή απενεργοποιεί την υποστήριξη ήχου για τις ειδοποιήσεις."
+
+#~ msgid "Slider"
+#~ msgstr "Μπάρα κύλισης"
+
+#~ msgid "Standard theme"
+#~ msgstr "Τυπικό θέμα"
+
+#~ msgid "Error initializing libnotify"
+#~ msgstr "Σφάλμα ενεργοποίησης libnotify"
+
+#~ msgid "Just a test"
+#~ msgstr "Αυτό είναι μια δοκιμή"
+
+#~ msgid "Error while displaying notification: %s"
+#~ msgstr "Σφάλμα εμφάνισης ειδοποιήσεων: %s"
+
+#~ msgid "Could not load user interface file: %s"
+#~ msgstr "Αδυναμία φόρτωσης αρχείου περιβάλλοντος χρήσης: %s"
+
+#~ msgid "Pop-Up Notifications"
+#~ msgstr "Αναδυόμενες ειδοποιήσεις"
+
+#~ msgid "Set your pop-up notification preferences"
+#~ msgstr "Ρύθμιση των προτιμήσεων των αναδυόμενων ειδοποιήσεων"

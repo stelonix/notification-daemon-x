@@ -1,0 +1,84 @@
+# Catalan translation for notification-daemon.
+# Copyright (C) 2011 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# David Planella <david.planella@gmail.com>, 2011.
+# Jordi Serratosa <jordis@softcatala.cat>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&component=general\n"
+"POT-Creation-Date: 2011-03-07 11:00+0000\n"
+"PO-Revision-Date: 2011-03-05 09:59+0100\n"
+"Last-Translator: David Planella <david.planella@gmail.com>\n"
+"Language-Team: Catalan <tradgnome@llistes.softcatala.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "S'ha excedit el nombre màxim de notificacions"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "L'identificador de notificació no és vàlid"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "Neteja totes les notificacions"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "Notificacions"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "Notificació"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "Mostra les notificacions"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "Dimoni de notificació"
+
+#~ msgid "Current theme"
+#~ msgstr "Tema actual"
+
+#~ msgid "Default Sound"
+#~ msgstr "So predeterminat"
+
+#~ msgid ""
+#~ "Default popup location on the workspace for stack notifications. Allowed "
+#~ "values: \"top_left\",\"top_right\",\"bottom_left\" and \"bottom_right\""
+#~ msgstr ""
+#~ "Ubicació predeterminada de les notificacions apilades a l'espai de "
+#~ "treball. Els valors admesos són: «top_left» (part superior esquerra), "
+#~ "«top_right» (part superior dreta), «bottom_left» (part inferior esquerra) i "
+#~ "«bottom_right» (part inferior dreta)"
+
+#~ msgid "Popup location"
+#~ msgstr "Ubicació de les notificacions"
+
+#~ msgid "Sound Enabled"
+#~ msgstr "So habilitat"
+
+#~ msgid ""
+#~ "The default sound file used unless a notification supplies the 'sound-"
+#~ "file' or 'suppress-sound' hint. Leave empty for no default sound."
+#~ msgstr ""
+#~ "El fitxer de so predeterminat que s'utilitzarà, llevat que una "
+#~ "notificació proporcioni el consell «sound-file» (fitxer de so) o bé el "
+#~ "consell «suppress-sound» (supressió del so). Deixeu-ho buit si no voleu "
+#~ "cap so predeterminat."
+
+#~ msgid "The theme used when displaying notifications."
+#~ msgstr "El tema que s'utilitzarà en mostrar notificacions."
+
+#~ msgid "Turns on and off sound support for notifications."
+#~ msgstr "Habilita o inhabilita el so de les notificacions."

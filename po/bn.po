@@ -1,0 +1,45 @@
+# Bengali translation for notification-daemon.
+# Copyright (C) 2011 notification-daemon's COPYRIGHT HOLDER
+# This file is distributed under the same license as the notification-daemon package.
+# israt_tithi <dollsdream@yahoo.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-daemon master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=notification-daemon&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-04-04 02:06+0000\n"
+"PO-Revision-Date: 2011-04-04 02:06+0000\n"
+"Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/daemon.c:188
+msgid "Exceeded maximum number of notifications"
+msgstr "সর্বোচ্চ সংখ্যক বিজ্ঞপ্তির সংখ্যা পেরিয়ে গেছে"
+
+#: ../src/daemon.c:251
+msgid "Invalid notification identifier"
+msgstr "অকার্যকর ঘোষণা আইডেন্টিফায়ার"
+
+#: ../src/nd-queue.c:472
+msgid "Clear all notifications"
+msgstr "সব ঘোষণা মুছে ফেলা"
+
+#: ../src/nd-queue.c:883
+msgid "Notifications"
+msgstr "ঘোষণা"
+
+#: ../src/sound.c:35
+msgid "Notification"
+msgstr "ঘোষণা"
+
+#: ../data/notification-daemon.desktop.in.in.h:1
+msgid "Display notifications"
+msgstr "ঘোষণা প্রদর্শনী"
+
+#: ../data/notification-daemon.desktop.in.in.h:2
+msgid "Notification Daemon"
+msgstr "ঘোষণা ডেমন"
